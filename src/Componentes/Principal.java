@@ -1,2 +1,4 @@
-package Logica;public class Principal {
+package Componentes;
+
+public class Principal {
 }

@@ -1,2 +1,4 @@
-package Persistencia;public class Conexion {
+package Persistencia;
+
+public class Conexion {
 }

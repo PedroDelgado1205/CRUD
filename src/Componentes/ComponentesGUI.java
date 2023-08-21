@@ -1,2 +1,4 @@
-package Logica;public class ComponentesGUI {
+package Componentes;
+
+public class ComponentesGUI {
 }
